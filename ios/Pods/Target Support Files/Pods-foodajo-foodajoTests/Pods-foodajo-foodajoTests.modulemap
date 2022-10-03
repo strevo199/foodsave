@@ -1,0 +1,6 @@
+module Pods_foodajo_foodajoTests {
+  umbrella header "Pods-foodajo-foodajoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

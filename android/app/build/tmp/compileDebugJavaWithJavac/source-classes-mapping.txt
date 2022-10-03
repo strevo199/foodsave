@@ -1,0 +1,14 @@
+com/foodajo/BuildConfig.java
+ com.foodajo.BuildConfig
+com/foodajo/MainApplication.java
+ com.foodajo.MainApplication
+ com.foodajo.MainApplication$1
+com/foodajo/ReactNativeFlipper.java
+ com.foodajo.ReactNativeFlipper
+ com.foodajo.ReactNativeFlipper$1
+ com.foodajo.ReactNativeFlipper$2
+ com.foodajo.ReactNativeFlipper$2$1
+com/foodajo/MainActivity.java
+ com.foodajo.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
